@@ -6,5 +6,12 @@ creating a branch is quick and also simple
 check the principle of branch
 check again branch
 
+<<<<<<< Updated upstream
 a new bug(delete it)
 the bug is fixed
+=======
+a new bug
+the bug is fixed
+
+developing
+>>>>>>> Stashed changes
