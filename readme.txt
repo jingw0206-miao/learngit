@@ -7,3 +7,4 @@ check the principle of branch
 check again branch
 
 a new bug
+the bug is fixed
