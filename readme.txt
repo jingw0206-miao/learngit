@@ -6,5 +6,3 @@ creating a branch is quick and also simple
 check the principle of branch
 check again branch
 
-a new bug(delete it)
-the bug is fixed
